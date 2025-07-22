@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stabat47
 - 👀 I’m interested in Full Stack dev proj
-- 🌱 I’m currently learning Back end dev and API
+- 😍 Just completed data analysis with python on FreeCodeCamp
 - 💞️ I’m looking to collaborate on ... full stack dev proj
 - 📫 How to reach me ... clensylandoh@gmail.com
 - 😄 Pronouns: ...
